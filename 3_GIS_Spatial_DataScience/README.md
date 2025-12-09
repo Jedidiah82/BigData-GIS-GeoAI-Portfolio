@@ -1,47 +1,45 @@
 # 🗺️ GIS, Remote Sensing & Spatial Data Science
 
-This section contains applied GIS projects using **ArcGIS Pro**, **QGIS**, **Python**, and **remote sensing workflows**, drawn from public health, environmental management, and emergency response contexts.
+This section demonstrates applied spatial analytics, cartographic design, network analysis, and remote sensing workflows using **ArcGIS Pro, QGIS, Python, and spatial statistics**.
+
+Projects include transportation safety, environmental monitoring, health systems strengthening, and humanitarian GIS.
 
 ---
 
-## 📂 Contents
+## 📂 Projects Overview
 
-| Folder | Project | Summary |
-|--------|---------|---------|
-| `RoadNetwork_Digitization_LISGIS/` | Digitization & mapping | Road extraction for MoH emergency response |
-| `TrafficCrash_Hotspot_Monrovia/` | Crash density & hotspot analysis | Road safety & high-risk segment detection |
-| `LandDegradation_RiverGee/` | NDVI & classification | Environmental degradation monitoring |
-| `Miami_SeaLevelRise_3D/` | 3D Scenes & flooding | Sea-level rise visualization |
-| `Airport_SiteSuitability_OAU/` | Multi-criteria evaluation | Location suitability analysis |
-| `FETP_Africa_Map_2023/` | Regional cohort map | AFENET/FETP training program |
-| `AFENET_Liberia_Footprint_2020_2024/` | Program footprint mapping | Public health interventions |
-| `OneHealth_RCCE_Stakeholders/` | Stakeholder spatial mapping | Risk communication pathways |
-| `EmergencyPreparedness_Training/` | Exercise mapping | Preparedness training materials |
+| Project | Focus | Tools |
+|--------|-------|-------|
+| Road Network Digitization (LISGIS) | Digitizing, QC, network building | ArcGIS Pro, Editing tools |
+| Traffic Crash Hotspot – Monrovia | Hotspot & segment risk modeling | KDE, Network Analyst |
+| Land Degradation – River Gee | Remote sensing change detection | Raster, NDVI, Classification |
+| Miami Sea Level Rise 3D | 3D visualization + flood modeling | ArcGIS Pro 3D, DEM |
+| Airport Site Suitability – OAU | Multi-criteria analysis | Raster/Vector overlays |
+| FETP Africa Map (2023) | Regional geodatabase + cartography | ArcGIS, Symbology |
+| AFENET Liberia Footprint (2020–2024) | Maps + dashboards for programs | ArcGIS Online |
+| One Health RCCE Stakeholders | Governance + mapping | Geodatabase design |
+| Emergency Preparedness Training | Hazard mapping for training | GIS workflows |
 
----
-
-## 🧰 Technical Skills Demonstrated
-
-- Digitization & editing workflows (ArcGIS Pro)  
-- Network Analyst (service areas, hotspots, routes)  
-- Raster classification (NDVI, supervised methods)  
-- 3D scenes & environmental modeling  
-- Suitability modeling (AHP-like workflows)  
-- Cartographic design & thematic mapping  
-- Spatial data storytelling (health & environment)  
-
----
-
-## 🔗 Intended Audience / Employers
-
-- Local & state GIS departments (NC EM, NC DEQ, NC DOT)  
-- Engineering firms (AECOM, HDR, TetraTech, Jacobs)  
-- ESRI partners / geospatial consultancies  
-- Public health NGOs using GIS for interventions  
-
-Each folder will include:
-
-- `README.md`  
-- Screenshots/figures  
+Each subfolder contains:
+- README.md  
 - Workflow description  
-- Python scripts where applicable  
+- Key maps or figure placeholders  
+- Optional Python/ArcPy snippet  
+
+---
+
+## 🔧 Skills Demonstrated
+
+- GIS editing & topology management  
+- Raster processing & NDVI  
+- Spatial statistics (hotspot, KDE)  
+- Network analyst (service areas, routes)  
+- Remote sensing classification  
+- Map production for stakeholders  
+- Geodatabase schema design  
+- Field epidemiology + GIS integration  
+
+---
+
+© 2025 — Godwin Etim Akpan  
+GIS • Spatial Data Science • Remote Sensing • Emergency Mapping
