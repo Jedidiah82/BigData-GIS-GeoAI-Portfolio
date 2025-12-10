@@ -6,35 +6,32 @@
 🔗 LinkedIn: https://www.linkedin.com/in/godwin-etim-akpan-822a5a43/
 📧 Email: godwineakpan1@gmail.com
 
-🔗 GitHub
-
-🔗 LinkedIn
-
-📧 godwineakpan1@gmail.com
-
 --- 
 
 🏷️ Skill Badges
+<p align="left"> <img src="https://img.shields.io/badge/Python-3.10-blue" /> <img src="https://img.shields.io/badge/Apache%20Spark-Big%20Data-orange" /> <img src="https://img.shields.io/badge/GIS-ArcGIS%20%7C%20QGIS-green" /> <img src="https://img.shields.io/badge/GeoAI-Spatial%20ML-red" /> <img src="https://img.shields.io/badge/AWS-Cloud-yellow" /> <img src="https://img.shields.io/badge/Cybersecurity-SOC%20Analytics-purple" /> </p>
 
-
-
-
+---
 
 ## 🚀 Portfolio Overview
 
 This portfolio showcases advanced work at the intersection of:
 
 - **Big Data Engineering & Distributed Machine Learning**
-- **GeoAI, Spatial Data Science & Remote Sensing**
-- **Public Health Informatics & Epidemiological Analytics**
+- **GeoAI & Spatial Epidemiology**
+- **GIS & Remote Sensing**
 - **Cloud Computing & Security Engineering**
-- **Cybersecurity Analytics & Threat Investigation**
+- **Cybersecurity Analytics**
+- **Public Health Informatics**
 
-Projects here reflect academic research, operational field experience, and hands-on technical practice with real datasets in public health, emergency management, and cybersecurity environments.
+Projects span academic research, applied analytics, emergency management, and operational health intelligence across Africa and the United States.
 
-The repository is organized into **four major pillars**, representing your multidisciplinary expertise and evolving career direction.
+## 📂 Pillars of the Portfolio
+Below are the four major pillars, each with dedicated project folders.
 
-## 📂 1. Big Data & Machine Learning (Spark • Hive • Python)
+## 1️⃣ Big Data & Machine Learning
+_📦 Spark • Hive • PySpark • Feature Engineering • ML Pipelines_
+
 | # | Project | Key Tools | Focus |
 |---|---------|-----------|--------|
 | 1 | Machine Learning on Big Data (Tasks 1a–1c) | Spark, Python, Word2Vec | Semantic embeddings & clustering |
@@ -45,64 +42,63 @@ The repository is organized into **four major pillars**, representing your multi
 
 ---
 
-## 📂 2. Public Health GeoAI & Spatio-Temporal Modeling
+## 2️⃣ Public Health GeoAI & Spatio-Temporal Modeling
 
-Designed for organizations such as:
-
-CDC Foundation • FHI360 • RTI International • PATH • WHO • UNICEF • AFENET • Africa CDC • Ministries of Health
+_📦 Disease forecasting • hotspot analysis • epidemiological intelligence_
 
 | Project | Key Tools | Focus |
 |---------|-----------|--------|
-| Lassa Fever GeoAI Forecasting (2016–2026) | Python, XGBoost, Prophet, GeoPandas | Forecasting, hotspot detection, manuscript-ready |
-| Publications & Manuscripts | Epidemiological methods | Peer-reviewed or under review |
-| Spatial Epidemiology Projects | GIS, Python | Clustering, spatio-temporal trends |
+| Lassa Fever GeoAI Forecasting | Python, XGBoost, Prophet, GeoPandas | Predictive modeling |
+| Publications & Manuscripts | Epidemiology | Research & publications |
+| Spatial Epidemiology Studies | GIS, Python | CCluster + trend analysis |
 
 ---
 
-## 📂 3. GIS, Spatial Data Science & Remote Sensing
+## 3️⃣ GIS, Spatial Data Science & Remote Sensing
 
-Applied geospatial workflows relevant to:
-
-**ESRI partners • NC State Government • Emergency Management • Engineering Firms**
+_📦 ArcGIS Pro, QGIS, GeoPandas, Raster ML, Environmental GIS_
 
 | Project | Tools | Focus |
 |---------|--------|--------|
-| Building Footprint Flood Exposure (NCEM) | GeoPandas, ArcGIS, Python | Hazard intersection, QA/QC, NCEM-style mapping |
-| Road Network Digitization (LISGIS) | ArcGIS, Editing | GIS basemap creation |
-| Traffic Crash Hotspot Analysis (Monrovia) | KDE, ArcGIS | Transportation safety |
-| Land Degradation Assessment (River Gee) | Remote sensing, NDVI | Environmental monitoring |
-| Miami Sea Level Rise 3D | ArcGIS Pro 3D | Climate change visualization |
-| Airport Site Suitability (OAU) | GIS/MCDA | Infrastructure planning |
-| FETP Africa – Map Production 2023 | ArcGIS Online | Epidemiology training support |
-| AFENET Liberia Footprint Mapping | GIS Program M&E | Public health operations |
+| NCEM Building Footprint Flood Exposure | GeoPandas, ArcGIS, Python | Hazard intersection, QA/QC, NCEM-style mapping |
+| Road Network Digitization | ArcGIS | Basemap creation |
+| Crash Hotspot Analysis | KDE, ArcGIS | Transportation safety |
+| Land Degradation | Remote sensing, NDVI, Sentinel-2 | Environmental monitoring |
+| Sea Level Rise 3D | ArcGIS Pro | Climate change visualization |
+| Airport Site Suitability | GIS/MCDA | Infrastructure planning |
+| Africa FETP Map Production | ArcGIS Online | Epidemiology training support |
+| Public Health Footprint Mapping | GIS Program M&E | Public health operations |
 | OneHealth RCCE Stakeholder Mapping | GIS | Risk communication mapping |
 | Emergency Preparedness Training Maps | GIS | Disaster readiness support |
 
 ---
 
-## ☁️ 4. Cloud Computing & Security Engineering (to be expanded)
+## 4️⃣ Cloud Computing & Security Engineering (In Progress)
 
-A focused pillar reflecting growing expertise in:
+_📦 AWS • Azure • GCP • IAM • Cloud Security • SIEM • Threat Detection_
+
+This evolving pillar highlights practical skills in:
+
+**☁️ Cloud Fundamentals**
 
 **Cloud Platforms**
-- AWS • Azure • Google Cloud
-- Cloud architecture fundamentals
-- IAM / Identity-centric security
-- Secure cloud configuration
+- AWS EC2, S3, IAM, VPC
+- Azure AD, Resource Groups
+- Google Cloud IAM & Compute
 
-**Cloud Security Engineering**
-- Threat detection & log analytics (CloudWatch, Splunk)
-- Network security & VPC architecture basics
-- Security automation (Python, Bash)
+**🔐 Cloud Security**
+- Identity & Access Management
+- Threat detection & logging
+- Secure configuration (CIS foundations)
+- Network segmentation & monitoring
 - Compliance-aligned cloud configurations
 
-**Cybersecurity Analytics**
-Experience from NeptuneGuard SOC volunteer work, including:
+**🛡 Cybersecurity Analytics**
+- Splunk log analysis & alert tuning
 - Email & phishing investigation
-- Splunk detection tuning
-- Threat intelligence (VirusTotal, URLhaus, GreyNoise)
-- Security log parsing, enrichment & reporting
-- Supporting penetration testing workflows
+- Threat intelligence (VirusTotal, GreyNoise)
+- Malware triage support
+- Penetration test log review
 
 _📌 This section will expand with cloud labs, architecture diagrams, and security engineering projects._
 
@@ -111,16 +107,19 @@ _📌 This section will expand with cloud labs, architecture diagrams, and secur
 ## 🧠 Technical Skills Overview
 
 **Data & ML:**
-Python • Spark • Hive • SQL • Pandas • XGBoost • Prophet • scikit-learn
+Python • Spark • Hive • SQL • Pandas • GeoPandas • XGBoost • Prophet • scikit-learn
 
-**Geospatial:**
-ArcGIS Pro • QGIS • GeoPandas • Rasterio • Folium • Remote Sensing
+**GIS & GeoAI:**
+ArcGIS Pro • QGIS • Shapely • Rasterio • Folium • Remote Sensing
 
 **Public Health Analytics:**
 Surveillance systems • Surveillance data pipelines DHIS2 • Outbreak dashboards
 
-**Cybersecurity & Cloud:**
-Splunk • Nessus • Wireshark • AWS IAM • VPC • Cloud Monitoring
+**Cloud:**
+AWS • Azure • GCP • IAM • VPC • Cloud Security
+
+**Cybersecurity:**
+Splunk • Nessus • Wireshark • Nmap • Maltego • OSINT Tools
 
 **Visualization:**
 ArcGIS Dashboards • Matplotlib • Seaborn • Power BI
@@ -130,11 +129,12 @@ ArcGIS Dashboards • Matplotlib • Seaborn • Power BI
 ## 🔄 Reproducibility & Structure
 
 Each project folder includes:
-- README.md (methodology & results)
-- Python scripts / Jupyter Notebooks
-- figures/ (exported maps & charts)
-- data_template/ (schemas for reproducible setups)
-- GIS boundary files for spatial analysis
+- README.md
+- Python scripts
+- Jupyter Notebooks
+- Figures/ (maps, plots, charts)
+- Data_template
+- GIS boundaries
 
 Install dependencies:
 _pip install -r requirements.txt_
@@ -142,11 +142,12 @@ _pip install -r requirements.txt_
 ---
 
 ## 🧭 Future Additions
-- Large-scale GeoAI (Spark + GIS integration)
-- Automated Lassa Fever prediction dashboard
-- Live hazard exposure mapping
-- AWS-based cloud security engineering projects
+- Large-scale GeoAI with Spark
+- Automated Lassa Fever EWS dashboard
+- NCEM hazard dashboards
+- AWS Security Engineering labs
+- Cloud + GeoAI integrated workflows
 - Early warning systems (EWS) for public health
 
 ## © 2025 – Godwin Etim Akpan
-**Big Data • GeoAI • GIS • Public Health Informatics • Cloud Security Analytics**
+**Big Data • GeoAI • GIS • Cloud Security • Public Health Informatics**
