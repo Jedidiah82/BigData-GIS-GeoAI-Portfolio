@@ -1,6 +1,3 @@
-# QA/QC Report — Cleaned Building Footprints
-
-- Raw polygons: 4678064
-- After cleaning: 0
-- Removed tiny polygons: 4678064
-- Invalid geometries corrected using buffer(0)
+# QA/QC Report
+Total buildings after cleaning: 4672975
+Removed small polygons: 5089
