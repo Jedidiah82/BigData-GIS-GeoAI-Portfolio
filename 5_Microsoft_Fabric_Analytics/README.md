@@ -21,6 +21,7 @@ It includes work on modern data engineering pipelines, semantic modeling, visual
 
 ## 📂 Folder Structure (Growing)
 
+```
 5_Microsoft_Fabric_Analytics/
 │
 ├── README.md
@@ -30,6 +31,7 @@ It includes work on modern data engineering pipelines, semantic modeling, visual
 ├── dataflows/            # Dataflows Gen2 definitions
 ├── powerbi_reports/      # PBIX files (models + dashboards)
 └── figures/              # Architecture diagrams & workflow screenshots
+```
 
 *(Directories will populate as practice projects and certification exercises progress.)*
 
