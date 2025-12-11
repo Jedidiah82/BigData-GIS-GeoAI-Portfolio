@@ -20,4 +20,8 @@ Used for:
 ## Outputs
 - PNG maps  
 - Vector files for presentations  
+
+## Maps Included
+![FETP Africa Map 2023](FETP_Africa_Map_2023.png)
+
 # Placeholder - content coming soon
