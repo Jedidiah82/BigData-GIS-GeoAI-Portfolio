@@ -21,4 +21,8 @@ GIS and spatial analytics products supporting:
 - Map gallery  
 - Dashboard screenshots  
 - Data schema summaries  
+
+## Maps Included
+![AFENET Liberia Footprint](AFENET_Liberia_Footprint.png)
+
 # Placeholder - content coming soon
