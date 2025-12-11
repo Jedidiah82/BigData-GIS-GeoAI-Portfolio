@@ -1,4 +1,4 @@
-<h1 align="center">💼 Big Data & Engineering • GIS–GeoAI • Public Health Analytics Portfolio</h1>
+<h1 align="center">📊 Analytics • GIS–GeoAI • Public Health Intelligence Portfolio</h1>
 
 <p align="center">
   <strong>Godwin Etim Akpan</strong><br>
