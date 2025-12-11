@@ -15,4 +15,6 @@ Focus:
 - Training maps  
 - Exercises (KDE, routing, overlays)  
 - Example datasets  
-# Placeholder - content coming soon
+
+## Maps Included
+![Emergency Preparedness Training](EmergencyPreparedness_Training.png)
